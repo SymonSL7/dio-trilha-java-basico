@@ -5,6 +5,8 @@ public class Usuario {
 
         System.out.println("TV ligada? " + smartTv.ligada);
 
+        System.out.println("------------------------------------------------------------------------------------------------------");
+
         smartTv.ligar();
         //System.out.println("Novo status - Tv ligada ? " + smartTv.ligada);
         
