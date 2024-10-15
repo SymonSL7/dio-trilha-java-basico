@@ -12,13 +12,13 @@ public class PlanoOperadora {
         switch (planoDesejado) {
 
             case "T":{                
-                System.out.println("5GB para acesar o YouTube.");                
+                System.out.println("5GB para acessar o YouTube.");                
             }
             case "M":{                
-                System.out.println("WhatsApp + Instagram grátis.");                
+                System.out.println("WhatsApp e Instagram grátis.");                
             }
             case "B":{
-                System.out.println("100 minuto de ligação.");
+                System.out.println("100 minutos de ligação.");
                 break;
             }
                         
